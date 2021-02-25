@@ -1,0 +1,172 @@
+2021-02-25 19:37:16 INFO  GittiGidiyorAutomation:37 - asdasd
+2021-02-25 19:39:33 INFO  GittiGidiyorAutomation:146 - There are no differences between prices
+2021-02-25 19:44:30 INFO  GittiGidiyorAutomation:148 - There are no differences between prices
+2021-02-25 19:48:26 INFO  GittiGidiyorAutomation:60 - true
+2021-02-25 19:48:42 INFO  GittiGidiyorAutomation:153 - There are no differences between prices
+2021-02-25 19:57:18 INFO  GittiGidiyorAutomation:57 - true
+2021-02-25 19:57:32 INFO  GittiGidiyorAutomation:57 - true
+2021-02-25 19:57:36 INFO  GittiGidiyorAutomation:142 - basarılı
+2021-02-25 19:57:47 INFO  GittiGidiyorAutomation:160 - There are no differences between prices
+2021-02-25 19:58:54 INFO  GittiGidiyorAutomation:57 - true
+2021-02-25 19:58:58 INFO  GittiGidiyorAutomation:142 - basarılı
+2021-02-25 20:01:26 INFO  GittiGidiyorAutomation:148 - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N6IGTKK', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: RemoteWebDriver
+2021-02-25 20:01:42 INFO  GittiGidiyorAutomation:145 - basarılı
+2021-02-25 20:03:18 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:03:22 INFO  GittiGidiyorAutomation:148 - basarılı
+2021-02-25 20:14:28 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:14:33 INFO  GittiGidiyorAutomation:126 - basarılı
+2021-02-25 20:14:44 INFO  GittiGidiyorAutomation:180 - Price different with basket = -2499.9
+2021-02-25 20:15:13 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:15:17 INFO  GittiGidiyorAutomation:126 - basarılı
+2021-02-25 20:15:27 INFO  GittiGidiyorAutomation:182 - There are no differences between prices
+2021-02-25 20:19:48 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:19:56 INFO  GittiGidiyorAutomation:129 - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//header[@id='main-header']/div[3]/div/div/div/div[3]/div/div/div[2]/div/div/div/a
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-N6IGTKK', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: RemoteWebDriver
+2021-02-25 20:20:07 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:20:11 INFO  GittiGidiyorAutomation:126 - basarılı
+2021-02-25 20:20:15 INFO  GittiGidiyorAutomation:159 - second page loaded successfully
+2021-02-25 20:20:21 INFO  GittiGidiyorAutomation:187 - There are no differences between prices
+2021-02-25 20:24:48 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:24:52 INFO  GittiGidiyorAutomation:132 - basarılı
+2021-02-25 20:25:04 INFO  GittiGidiyorAutomation:186 - There are no differences between prices
+2021-02-25 20:25:07 INFO  GittiGidiyorAutomation:104 - sepet dolu
+2021-02-25 20:26:03 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:26:07 INFO  GittiGidiyorAutomation:132 - basarılı
+2021-02-25 20:26:19 INFO  GittiGidiyorAutomation:184 - Price different with basket = 14.259999999999991
+2021-02-25 20:26:22 INFO  GittiGidiyorAutomation:104 - sepet dolu
+2021-02-25 20:28:42 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:28:46 INFO  GittiGidiyorAutomation:133 - basarılı
+2021-02-25 20:28:58 INFO  GittiGidiyorAutomation:187 - There are no differences between prices
+2021-02-25 20:29:01 INFO  GittiGidiyorAutomation:105 - sepet dolu
+2021-02-25 20:31:33 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 20:31:39 INFO  GittiGidiyorAutomation:133 - basarılı
+2021-02-25 20:31:50 INFO  GittiGidiyorAutomation:187 - There are no differences between prices
+2021-02-25 20:31:54 INFO  GittiGidiyorAutomation:103 - sepet boş
+2021-02-25 21:39:47 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 21:39:52 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 21:40:03 INFO  GittiGidiyorAutomation:181 - Price different with basket = 14.259999999999991
+2021-02-25 21:40:07 INFO  GittiGidiyorAutomation:167 - sepet boş
+2021-02-25 22:04:27 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:04:32 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:04:42 INFO  GittiGidiyorAutomation:178 - There are no differences between prices
+2021-02-25 22:04:46 INFO  GittiGidiyorAutomation:162 - Basket is empty
+2021-02-25 22:09:01 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:09:06 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:09:23 INFO  GittiGidiyorAutomation:187 - There are no differences between prices
+2021-02-25 22:09:26 INFO  GittiGidiyorAutomation:162 - Piece error
+2021-02-25 22:09:27 INFO  GittiGidiyorAutomation:171 - Basket is empty
+2021-02-25 22:11:24 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:11:29 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:11:40 INFO  GittiGidiyorAutomation:189 - There are no differences between prices
+2021-02-25 22:11:43 INFO  GittiGidiyorAutomation:160 - Ürün Toplamı (2 Adet) buna bak
+2021-02-25 22:11:43 INFO  GittiGidiyorAutomation:164 - Piece error
+2021-02-25 22:11:45 INFO  GittiGidiyorAutomation:173 - Basket is empty
+2021-02-25 22:14:50 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:14:55 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:15:05 INFO  GittiGidiyorAutomation:190 - There are no differences between prices
+2021-02-25 22:15:08 INFO  GittiGidiyorAutomation:160 - Ürün Toplamı (2 Adet) buna bak
+2021-02-25 22:15:08 INFO  GittiGidiyorAutomation:163 - Piece is correct
+2021-02-25 22:15:09 INFO  GittiGidiyorAutomation:174 - Basket is empty
+2021-02-25 22:20:43 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:20:48 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:20:58 INFO  GittiGidiyorAutomation:191 - There are no differences between prices
+2021-02-25 22:21:02 INFO  GittiGidiyorAutomation:161 - Ürün Toplamı (2 Adet) buna bak
+2021-02-25 22:21:02 INFO  GittiGidiyorAutomation:164 - Piece is correct
+2021-02-25 22:21:03 INFO  GittiGidiyorAutomation:175 - Basket is empty
+2021-02-25 22:21:20 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:21:25 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:21:35 INFO  GittiGidiyorAutomation:191 - There are no differences between prices
+2021-02-25 22:21:38 INFO  GittiGidiyorAutomation:161 - Ürün Toplamı (2 Adet) buna bak
+2021-02-25 22:21:38 INFO  GittiGidiyorAutomation:164 - Piece is correct
+2021-02-25 22:21:40 INFO  GittiGidiyorAutomation:177 - Basket is full
+2021-02-25 22:23:07 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:23:12 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:23:24 INFO  GittiGidiyorAutomation:191 - There are no differences between prices
+2021-02-25 22:23:27 INFO  GittiGidiyorAutomation:161 - Ürün Toplamı (2 Adet) buna bak
+2021-02-25 22:23:27 INFO  GittiGidiyorAutomation:164 - Piece is correct
+2021-02-25 22:23:28 INFO  GittiGidiyorAutomation:177 - Basket is full
+2021-02-25 22:23:52 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 22:23:56 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 22:24:07 INFO  GittiGidiyorAutomation:191 - There are no differences between prices
+2021-02-25 22:24:11 INFO  GittiGidiyorAutomation:161 - Ürün Toplamı (1 Adet) buna bak
+2021-02-25 22:24:11 INFO  GittiGidiyorAutomation:166 - Piece error
+2021-02-25 22:24:12 INFO  GittiGidiyorAutomation:177 - Basket is full
+2021-02-25 23:07:14 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 23:07:18 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 23:07:29 INFO  GittiGidiyorAutomation:199 - There are no differences between prices
+2021-02-25 23:07:32 INFO  GittiGidiyorAutomation:172 - Piece is correct
+2021-02-25 23:07:33 INFO  GittiGidiyorAutomation:185 - Basket is full
+2021-02-25 23:10:41 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 23:10:46 INFO  GittiGidiyorAutomation:92 - basarılı
+2021-02-25 23:10:57 INFO  GittiGidiyorAutomation:154 - Add basket success
+2021-02-25 23:10:57 INFO  GittiGidiyorAutomation:198 - There are no differences between prices
+2021-02-25 23:11:01 INFO  GittiGidiyorAutomation:168 - Piece is correct
+2021-02-25 23:11:02 INFO  GittiGidiyorAutomation:184 - Basket is full
+2021-02-25 23:16:54 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 23:16:59 INFO  GittiGidiyorAutomation:92 - Log In Success
+2021-02-25 23:17:10 INFO  GittiGidiyorAutomation:153 - Add basket success
+2021-02-25 23:17:10 INFO  GittiGidiyorAutomation:197 - There are no differences between prices
+2021-02-25 23:17:13 INFO  GittiGidiyorAutomation:167 - Piece is correct
+2021-02-25 23:17:14 INFO  GittiGidiyorAutomation:181 - Basket is empty
+2021-02-25 23:19:07 INFO  GittiGidiyorAutomation:63 - page loaded successfully
+2021-02-25 23:19:12 INFO  GittiGidiyorAutomation:92 - Log In Success
+2021-02-25 23:19:23 INFO  GittiGidiyorAutomation:153 - Add basket success
+2021-02-25 23:19:23 INFO  GittiGidiyorAutomation:192 - List Price = 4599.0
+2021-02-25 23:19:23 INFO  GittiGidiyorAutomation:193 -  Basket Price = 4599.0
+2021-02-25 23:19:23 INFO  GittiGidiyorAutomation:198 - There are no differences between prices
+2021-02-25 23:19:26 INFO  GittiGidiyorAutomation:167 - Piece is correct
+2021-02-25 23:19:28 INFO  GittiGidiyorAutomation:181 - Basket is empty
+2021-02-25 23:21:56 INFO  GittiGidiyorAutomation:56 - Main page loaded successfully
+2021-02-25 23:22:00 INFO  GittiGidiyorAutomation:85 - Log In Success
+2021-02-25 23:22:11 INFO  GittiGidiyorAutomation:146 - Add basket success
+2021-02-25 23:22:11 INFO  GittiGidiyorAutomation:185 - List Price = 4399.0
+2021-02-25 23:22:11 INFO  GittiGidiyorAutomation:186 -  Basket Price = 4399.0
+2021-02-25 23:22:11 INFO  GittiGidiyorAutomation:191 - There are no differences between prices
+2021-02-25 23:22:14 INFO  GittiGidiyorAutomation:160 - Piece is correct
+2021-02-25 23:22:15 INFO  GittiGidiyorAutomation:174 - Basket is empty
+2021-02-25 23:24:57 INFO  GittiGidiyorAutomation:56 - Main page loaded successfully
+2021-02-25 23:25:02 INFO  GittiGidiyorAutomation:85 - Log In Success
+2021-02-25 23:25:12 INFO  GittiGidiyorAutomation:146 - Add basket success
+2021-02-25 23:25:12 INFO  GittiGidiyorAutomation:185 - List Price = 4949.0
+2021-02-25 23:25:12 INFO  GittiGidiyorAutomation:186 -  Basket Price = 4949.0
+2021-02-25 23:25:12 INFO  GittiGidiyorAutomation:191 - There are no differences between prices
+2021-02-25 23:25:15 INFO  GittiGidiyorAutomation:160 - Piece is correct
+2021-02-25 23:25:16 INFO  GittiGidiyorAutomation:174 - Basket is empty
+2021-02-25 23:44:11 INFO  GittiGidiyorAutomation:49 - Main page loaded successfully
+2021-02-25 23:44:15 INFO  GittiGidiyorAutomation:78 - Log In Success
+2021-02-25 23:44:26 INFO  GittiGidiyorAutomation:138 - Add basket success
+2021-02-25 23:44:26 INFO  GittiGidiyorAutomation:177 - List Price = 4449.0
+2021-02-25 23:44:26 INFO  GittiGidiyorAutomation:178 -  Basket Price = 4449.0
+2021-02-25 23:44:26 INFO  GittiGidiyorAutomation:183 - There are no differences between prices
+2021-02-25 23:44:29 INFO  GittiGidiyorAutomation:152 - Piece is correct
+2021-02-25 23:44:30 INFO  GittiGidiyorAutomation:166 - Basket is empty
+2021-02-25 23:55:54 INFO  GittiGidiyorAutomation:49 - Main page loaded successfully
+2021-02-25 23:56:00 INFO  GittiGidiyorAutomation:72 - Log In Success
+2021-02-25 23:56:11 INFO  GittiGidiyorAutomation:128 - Add basket success
+2021-02-25 23:56:11 INFO  GittiGidiyorAutomation:166 - List Price = 5999.9
+2021-02-25 23:56:11 INFO  GittiGidiyorAutomation:167 -  Basket Price = 5099.9
+2021-02-25 23:56:11 INFO  GittiGidiyorAutomation:170 - Price different with basket = 900.0
+2021-02-25 23:56:34 ERROR GittiGidiyorAutomation:147 - Add basket failed.
+2021-02-25 23:58:28 INFO  GittiGidiyorAutomation:49 - Main page loaded successfully
+2021-02-25 23:58:34 INFO  GittiGidiyorAutomation:72 - Log In Success
+2021-02-25 23:58:44 INFO  GittiGidiyorAutomation:128 - Add basket success
+2021-02-25 23:58:44 INFO  GittiGidiyorAutomation:170 - List Price = 9999.9
+2021-02-25 23:58:44 INFO  GittiGidiyorAutomation:171 -  Basket Price = 9999.9
+2021-02-25 23:58:44 INFO  GittiGidiyorAutomation:176 - There are no differences between prices
+2021-02-25 23:58:47 INFO  GittiGidiyorAutomation:146 - Piece is correct
+2021-02-25 23:58:48 INFO  GittiGidiyorAutomation:161 - Basket is full
+2021-02-26 00:01:09 INFO  GittiGidiyorAutomation:49 - Main page loaded successfully
+2021-02-26 00:01:15 INFO  GittiGidiyorAutomation:72 - Log In Success
+2021-02-26 00:01:25 INFO  GittiGidiyorAutomation:128 - Add basket success
+2021-02-26 00:01:25 INFO  GittiGidiyorAutomation:170 - List Price = 4149.0
+2021-02-26 00:01:25 INFO  GittiGidiyorAutomation:171 -  Basket Price = 4149.0
+2021-02-26 00:01:25 INFO  GittiGidiyorAutomation:176 - There are no differences between prices
+2021-02-26 00:01:28 INFO  GittiGidiyorAutomation:146 - Piece is correct
+2021-02-26 00:01:29 INFO  GittiGidiyorAutomation:161 - Basket is full
