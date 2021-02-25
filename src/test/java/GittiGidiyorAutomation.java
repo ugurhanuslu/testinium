@@ -159,6 +159,7 @@ public class GittiGidiyorAutomation {
         } else {
             log.error("Basket is full");
         }
+        driver.close();
         return true;
     }
 //Comparing product prices
@@ -183,5 +184,6 @@ public class GittiGidiyorAutomation {
         double d = number.doubleValue();
         return d;
     }
+
 }
 
