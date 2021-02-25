@@ -202,3 +202,11 @@ Driver info: driver.version: RemoteWebDriver
 2021-02-26 00:55:57 INFO  GittiGidiyorAutomation:176 - There are no differences between prices
 2021-02-26 00:56:00 INFO  GittiGidiyorAutomation:145 - Piece is correct
 2021-02-26 00:56:01 INFO  GittiGidiyorAutomation:158 - Basket is empty
+2021-02-26 01:13:33 INFO  GittiGidiyorAutomation:48 - Main page loaded successfully
+2021-02-26 01:13:38 INFO  GittiGidiyorAutomation:71 - Log In Success
+2021-02-26 01:13:48 INFO  GittiGidiyorAutomation:127 - Add basket success
+2021-02-26 01:13:48 INFO  GittiGidiyorAutomation:170 - List Price = 4899.0
+2021-02-26 01:13:48 INFO  GittiGidiyorAutomation:171 - Basket Price = 4899.0
+2021-02-26 01:13:48 INFO  GittiGidiyorAutomation:176 - There are no differences between prices
+2021-02-26 01:13:52 INFO  GittiGidiyorAutomation:145 - Piece is correct
+2021-02-26 01:13:53 INFO  GittiGidiyorAutomation:158 - Basket is empty
